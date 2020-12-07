@@ -1,4 +1,0 @@
-serverless-benchmark	Beldi	Vaas	baseline
-travel 1 1 1.44 3.05 3.00 3.10 2.62 2.55 3.00
-alexa 1 0.99 1.01  4.95 4.80 5.05 4.05 4.00 5.00
-data-analysis 1 0.99 1.01  2.16 2.00 3.00 2.05 2.00 2.50

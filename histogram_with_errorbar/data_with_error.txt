@@ -1,0 +1,5 @@
+serverless-benchmark	Baseline	Beldi	"Beldi (cross-table txn)"
+Read    3   3   8   13  13  19  9   9   11
+Write   5   5   9   11  11  19  26  26  41
+CondWrite   4   4   5   19  19  21  29  29  45
+Invoke  15  15  30  32  10  54  36  36  57  
