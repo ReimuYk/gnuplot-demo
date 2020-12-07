@@ -1,6 +1,6 @@
 reset
 set term post "Times" eps color solid enh
-set output "vaas_line.eps"
+set output "output.eps"
 # set term pngcairo dashed
 # set output "vaas_line.png"
 
